@@ -1,4 +1,5 @@
 n = int(input("Enter decimal number: "))
+print(bin(n)[2:]) 
 k = n
 binary = ""
 
